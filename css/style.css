@@ -29,6 +29,11 @@ main .grid-container-main {
 
 .titleBlock {
     grid-column: 1 ;
+    display: grid;
+    align-items: center;      
+    justify-items: center;   
+    grid-column: 1;
+}
 }
 
 .logoBlock {
