@@ -1,3 +1,11 @@
+body {
+  font-family: Roboto, sans-serif;
+  background-color: #FFF;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr); 
@@ -6,10 +14,7 @@
   margin: 0 auto;
 }
 
-body {
-  font-family: Roboto, sans-serif;
-  background-color: #FFF;
-  color: #333;
-  margin: 0;
-  padding: 0;
+.block {
+    border: 1px solid #000000;
+  
 }
