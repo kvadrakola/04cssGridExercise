@@ -1,0 +1,15 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); 
+  gap: 35px; 
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  background-color: #FFF;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
