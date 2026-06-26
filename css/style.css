@@ -36,15 +36,9 @@ body {
 }
 
 .titleBlock {
-    grid-column: 1 ;
     display: grid;
     align-items: center;      
     justify-items: center;   
-    grid-column: 1;
-}
-
-.logoBlock {
-    grid-column: 2;
 }
 
 .imgBigRobotBlock {
