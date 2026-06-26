@@ -21,11 +21,12 @@ body {
 }
 
 .titleBlock {
-    grid-column: span 3;
+    grid-column: 1 / span 3;
 }
 
-.img3Block {
-    grid-column: span 3;
+.logoBlock {
+    grid-column: 4 / -1;
+    border: 1px solid #d5fa05;
 }
 
 .img5Block {
